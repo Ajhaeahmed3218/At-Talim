@@ -25,20 +25,9 @@ export default function Home() {
           <img className="w-full h-full object-contain" src="logo.png" alt="Logo" />
         </div>
 
-        {/* Optional content */}
-        {/* 
-        <h1 className="text-4xl text-black font-bold mt-10">
-          Welcome to At-Talim
-        </h1>
-        <p className="text-gray-600 mt-4">
-          Your journey to knowledge starts here.
-        </p>
-        <div className="mt-8">
-          <button className="px-6 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors">
-            Get Started
-          </button>
-        </div>
-        */}
+        
+        
+
       </div>
     </div>
   );
